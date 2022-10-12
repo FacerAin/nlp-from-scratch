@@ -14,3 +14,4 @@ nlp-from-scratch
 ## Reference
 - https://github.com/graykode/nlp-tutorial
 - https://github.com/bentrevett/pytorch-seq2seq
+- Naver AI Boostcamp
