@@ -1,7 +1,7 @@
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 brotlipy==0.7.0
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+certifi==2022.9.24
 cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
@@ -44,6 +44,7 @@ stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 torch==1.12.1
 torchaudio==0.12.1
 torchdata==0.4.1
+torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1664940782186/work
 torchtext==0.13.1
 torchvision==0.13.1
 tornado @ file:///C:/ci/tornado_1662458743919/work
